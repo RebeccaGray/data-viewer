@@ -18,7 +18,7 @@ const App = React.createClass({
         <Route path='/' component={Layout}>
           <IndexRoute component={Landing} />
           <Route path='/search' component={Search} dataSets={dataSets} />
-          <Route path='/details:filename' component={Details} onEnter={this.assignShow}/>
+          <Route path='/details:filename' component={Details} onEnter={this.assignShow} />
         </Route>
       </Router>
     )

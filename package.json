@@ -20,12 +20,12 @@
     "highcharts": "^5.0.0",
     "json-loader": "^0.5.4",
     "react": "^0.14.8",
+    "react-addons-shallow-compare": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-fetch": "0.0.9",
     "react-highcharts": "^10.0.0",
     "react-highlight": "^0.9.0",
     "react-router": "^2.8.1",
-    "react-sparklines": "^1.6.0",
     "webpack": "^1.13.2"
   },
   "devDependencies": {
